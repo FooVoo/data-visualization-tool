@@ -29,7 +29,7 @@ Built with **Rust + WebAssembly** for data crunching and **Svelte + Chart.js** f
 | Charts             | Chart.js                            |
 | Styling            | Tailwind CSS                        |
 | Build tool         | Vite + `vite-plugin-wasm`           |
-| Deployment         | GitHub Pages                        |
+| Deployment         | Vercel with domain                       |
 
 ---
 
