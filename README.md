@@ -25,7 +25,7 @@ Built with **Rust + WebAssembly** for data crunching and **Svelte + Chart.js** f
 | Data engine        | Svelte + `wasm-bindgen` + `wasm-pack` |
 | CSV parsing        | `csv` crate                         |
 | Serialization      | `serde` + `serde-wasm-bindgen`      |
-| Frontend framework | React + TypeScript                  |
+| Frontend framework | Svelte + TypeScript                  |
 | Charts             | Chart.js                            |
 | Styling            | Tailwind CSS                        |
 | Build tool         | Vite + `vite-plugin-wasm`           |
